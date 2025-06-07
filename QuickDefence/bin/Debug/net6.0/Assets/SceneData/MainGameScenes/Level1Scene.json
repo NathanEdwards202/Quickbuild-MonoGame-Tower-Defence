@@ -1,0 +1,113 @@
+/*
+  File Format:
+
+  Name
+  Paths
+    Path
+      Point
+        X, Y
+        ID
+  Static Objects
+  BGTexture Name
+*/
+
+
+
+{
+  // Name
+  "sceneName": "Level 1",
+
+  // Paths
+  "paths": {
+    "path1": {
+      "point1": {
+        "position": {
+          "x": -150,
+          "y": 299
+        },
+        "pointID": 1
+      },
+      "point2": {
+        "position": {
+          "x": 237,
+          "y": 299
+        },
+        "pointID": 2
+      },
+      "point3": {
+        "position": {
+          "x": 237,
+          "y": 563
+        },
+        "pointID": 3
+      },
+      "point4": {
+        "position": {
+          "x": 412,
+          "y": 563
+        },
+        "pointID": 5
+      },
+      "point5": {
+        "position": {
+          "x": 412,
+          "y": 42
+        },
+        "pointID": 5
+      },
+      "point6": {
+        "position": {
+          "x": 768,
+          "y": 42
+        },
+        "pointID": 6
+      },
+      "point7": {
+        "position": {
+          "x": 768,
+          "y": 768
+        },
+        "pointID": 7
+      },
+      "point8": {
+        "position": {
+          "x": 165,
+          "y": 768
+        },
+        "pointID": 8
+      },
+      "point9": {
+        "position": {
+          "x": 165,
+          "y": 976
+        },
+        "pointID": 9
+      },
+      "point10": {
+        "position": {
+          "x": 1016,
+          "y": 976
+        },
+        "pointID": 10
+      },
+      "point11": {
+        "position": {
+          "x": 1016,
+          "y": 471
+        },
+        "pointID": 11
+      },
+      "point12": {
+        "position": {
+          "x": 1480,
+          "y": 471
+        },
+        "pointID": 12
+      }
+    }
+  },
+  // Static Objects
+
+  // BGTexture Name
+  "BGTextureName": "Level1"
+}

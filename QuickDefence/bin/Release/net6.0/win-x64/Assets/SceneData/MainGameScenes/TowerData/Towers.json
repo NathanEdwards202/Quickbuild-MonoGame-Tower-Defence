@@ -1,0 +1,73 @@
+/*
+  File Format:
+
+  Towers
+    Name
+      hp
+      spd
+      dmg
+      texture
+*/
+
+
+
+{
+  "towers": {
+    "Regular Tower": {
+      "canMove": false,
+      "movementSpeed": 0,
+      "range": 300,
+      "damage": 2,
+      "attackSpeed": 1.32,
+      "rotationSpeed": 200,
+      "texture": "BasicBoomer",
+
+      "projectileSpeed": 1000,
+      "projectilePierce": 2,
+      "projectileLife": 0.5,
+      "projectileTexureName": "BasicBullet"
+    },
+    "Knight": {
+      "canMove": false,
+      "movementSpeed": 0,
+      "range": 180,
+      "damage": 3,
+      "attackSpeed": 1.64,
+      "rotationSpeed": 360,
+      "texture": "Knight",
+
+      "projectileSpeed": 2000,
+      "projectilePierce": 10,
+      "projectileLife": 0.1,
+      "projectileTexureName": "KnightSlash"
+    },
+    "Wizard": {
+      "canMove": false,
+      "movementSpeed": 0,
+      "range": 400,
+      "damage": 1,
+      "attackSpeed": 0.75,
+      "rotationSpeed": 360,
+      "texture": "Wizard",
+
+      "projectileSpeed": 1250,
+      "projectilePierce": 4,
+      "projectileLife": 1.25,
+      "projectileTexureName": "WizardBlast"
+    },
+    "Pengu": {
+      "canMove": false,
+      "movementSpeed": 0,
+      "range": 640,
+      "damage": 15,
+      "attackSpeed": 3,
+      "rotationSpeed": 250,
+      "texture": "Pengu",
+
+      "projectileSpeed": 250,
+      "projectilePierce": 1,
+      "projectileLife": 5,
+      "projectileTexureName": "PenguIcicle"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CgHFcDgsvIj6Qo+sWlbegvLxg6w9+jx4k6PbhLwVCQIFf1Babdv1bFLj1l6oNa/rPtO6FreOWi9PzwQ5ZLQbtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Athena\\Desktop\\Projects\\C#\\Monogame\\000 - TowerDefence\\QuickDefence\\QuickDefence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Athena\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Athena\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Athena\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

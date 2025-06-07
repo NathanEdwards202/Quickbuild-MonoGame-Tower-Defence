@@ -1,0 +1,52 @@
+/*
+  File Format:
+
+  Enemies
+    Name
+      hp
+      spd
+      dmg
+      texture
+*/
+
+
+
+{
+  "enemies": {
+    "ScurryBug": {
+      "health": 2,
+      "speed": 150,
+      "damage": 1,
+      "rotationSpeed": 420,
+      "texture": "ScurryBug"
+    },
+    "Spooky": {
+      "health": 10,
+      "speed": 100,
+      "damage": 2,
+      "rotationSpeed": 0,
+      "texture": "Spooky"
+    },
+    "OrangeBloon": {
+      "health": 5,
+      "speed": 400,
+      "damage": 2,
+      "rotationSpeed": 0,
+      "texture": "OrangeBloon"
+    },
+    "Crab": {
+      "health": 25,
+      "speed": 75,
+      "damage": 3,
+      "rotationSpeed": 120,
+      "texture": "Crab"
+    },
+    "Dragon": {
+      "health": 500,
+      "speed": 40,
+      "damage": 100,
+      "rotationSpeed": 240,
+      "texture": "Dragon"
+    }
+  }
+}

@@ -1,0 +1,221 @@
+/*
+  File Format:
+
+  Name
+  Wave
+    WaveNumber
+      EnemyType
+        EnemyStats
+*/
+
+
+{
+  // Name
+  "spawnType": "SpawnType 1",
+
+  // Rounds
+  "rounds": {
+    "1": {
+      "EnemySpawn1": {
+        "name": "ScurryBug",
+        "num": 5,
+        "start": 500,
+        "delay": 2000
+      }
+    },
+    "2": {
+      "EnemySpawn1": {
+        "name": "ScurryBug",
+        "num": 8,
+        "start": 0,
+        "delay": 750
+      }
+    },
+    "3": {
+      "EnemySpawn1": {
+        "name": "ScurryBug",
+        "num": 10,
+        "start": 0,
+        "delay": 500
+      },
+      "EnemySpawn2": {
+        "name": "Spooky",
+        "num": 5,
+        "start": 0,
+        "delay": 1100
+      }
+    },
+    "4": {
+      "EnemySpawn1": {
+        "name": "ScurryBug",
+        "num": 20,
+        "start": 1000,
+        "delay": 100
+      },
+      "EnemySpawn2": {
+        "name": "Spooky",
+        "num": 8,
+        "start": 0,
+        "delay": 125
+      }
+    },
+    "5": {
+      "EnemySpawn1": {
+        "name": "OrangeBloon",
+        "num": 16,
+        "start": 0,
+        "delay": 250
+      }
+    },
+    "6": {
+      "EnemySpawn1": {
+        "name": "ScurryBug",
+        "num": 36,
+        "start": 0,
+        "delay": 222
+      },
+      "EnemySpawn2": {
+        "name": "Spooky",
+        "num": 24,
+        "start": 0,
+        "delay": 444
+      },
+      "EnemySpawn3": {
+        "name": "OrangeBloon",
+        "num": 12,
+        "start": 0,
+        "delay": 666
+      }
+    },
+    "7": {
+      "EnemySpawn1": {
+        "name": "OrangeBloon",
+        "num": 50,
+        "start": 0,
+        "delay": 240
+      },
+      "EnemySpawn2": {
+        "name": "Crab",
+        "num": 10,
+        "start": 5000,
+        "delay": 700
+      }
+    },
+    "8": {
+      "EnemySpawn1": {
+        "name": "ScurryBug",
+        "num": 120,
+        "start": 0,
+        "delay": 150
+      },
+      "EnemySpawn2": {
+        "name": "Spooky",
+        "num": 60,
+        "start": 6000,
+        "delay": 200
+      },
+      "EnemySpawn3": {
+        "name": "OrangeBloon",
+        "num": 20,
+        "start": 13000,
+        "delay": 250
+      },
+      "EnemySpawn4": {
+        "name": "Crab",
+        "num": 5,
+        "start": 16500,
+        "delay": 300
+      }
+    },
+    "9": {
+      "EnemySpawn1": {
+        "name": "ScurryBug",
+        "num": 66,
+        "start": 0,
+        "delay": 370
+      },
+      "EnemySpawn2": {
+        "name": "Spooky",
+        "num": 60,
+        "start": 0,
+        "delay": 407
+      },
+      "EnemySpawn3": {
+        "name": "OrangeBloon",
+        "num": 54,
+        "start": 0,
+        "delay": 444
+      },
+      "EnemySpawn4": {
+        "name": "Crab",
+        "num": 15,
+        "start": 10000,
+        "delay": 61
+      }
+    },
+    "10": {
+      "EnemySpawn1": {
+        "name": "ScurryBug",
+        "num": 200,
+        "start": 0,
+        "delay": 600
+      },
+      "EnemySpawn2": {
+        "name": "Spooky",
+        "num": 200,
+        "start": 5000,
+        "delay": 550
+      },
+      "EnemySpawn3": {
+        "name": "OrangeBloon",
+        "num": 200,
+        "start": 10000,
+        "delay": 500
+      },
+      "EnemySpawn4": {
+        "name": "Crab",
+        "num": 200,
+        "start": 15000,
+        "delay": 450
+      },
+      "EnemySpawn5": {
+        "name": "Dragon",
+        "num": 1,
+        "start": 20000,
+        "delay": 1
+      }
+    },
+    "11": {
+      "EnemySpawn1": {
+        "name": "ScurryBug",
+        "num": 400,
+        "start": 0,
+        "delay": 300
+      },
+      "EnemySpawn2": {
+        "name": "Spooky",
+        "num": 400,
+        "start": 10000,
+        "delay": 275
+      },
+      "EnemySpawn3": {
+        "name": "OrangeBloon",
+        "num": 400,
+        "start": 20000,
+        "delay": 250
+      },
+      "EnemySpawn4": {
+        "name": "Crab",
+        "num": 400,
+        "start": 30000,
+        "delay": 225
+      },
+      "EnemySpawn5": {
+        "name": "Dragon",
+        "num": 5,
+        "start": 20000,
+        "delay": 12000
+      }
+    }
+  }
+}

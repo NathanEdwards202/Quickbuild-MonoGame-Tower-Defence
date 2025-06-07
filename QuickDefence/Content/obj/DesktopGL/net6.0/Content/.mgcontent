@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Enemies/Crab.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Enemies/Dragon.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Enemies/OrangeBloon.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Enemies/ScurryBug.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Enemies/Spooky.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Fonts/DefaultFontArial.spritefont</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Overworld/BackgroundMaps/InfoBG/InfoBG.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Overworld/BackgroundMaps/Level1.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Towers/BasicBoomer.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Towers/Knight.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Towers/Pengu.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Towers/Projectiles/BasicBullet.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Towers/Projectiles/KnightSlash.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Towers/Projectiles/PenguIcicle.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Towers/Projectiles/WizardBlast.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/Towers/Wizard.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/UI/Actors/Enemies/EnemyHealthBarBackground.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/UI/Actors/Enemies/EnemyHealthBarFill.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/UI/Buttons/PlayButtonDisabled.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/UI/Buttons/PlayButtonHeld.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/UI/Buttons/PlayButtonHovering.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/UI/Buttons/PlayButtonInteractable.png</File>
+    <File>C:/Users/Athena/Desktop/Projects/C#/Monogame/000 - TowerDefence/QuickDefence/Content/UI/Buttons/PlayButtonPressed.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
